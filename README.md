@@ -6,7 +6,13 @@ What's the main focus? Is it for a book, an album, a mobile app, a product? Cons
 
 ## Link
 
+## Todo
+
+- [ ] Add interactivity to the landing page by adding animation (GSAP / Web Animation API / CSS3 animation).
+
 ## Demo
+
+![VR company landing page demo](https://github.com/khwilo/003-landing-page/blob/master/demo/landing-page-demo.gif)
 
 ## Design Inspiration
 
