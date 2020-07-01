@@ -1,10 +1,14 @@
 # DAILY UI 003 - LANDING PAGE
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6f9abd86-d655-4905-9fa7-256617ad1d8b/deploy-status)](https://app.netlify.com/sites/vr-landing-page/deploys)
+
 ## Design Hint
 
 What's the main focus? Is it for a book, an album, a mobile app, a product? Consider important landing page elements (call-to-actions, clarity, etc.)
 
 ## Link
+
+[VR Landing page](https://vr-landing-page.netlify.app/)
 
 ## Todo
 
